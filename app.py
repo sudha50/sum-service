@@ -32,4 +32,4 @@ def mul():
 
 
 if __name__ == "__main__":
-    app.run(debug=config.DEBUG_MODE, host="0.0.0.0", port=config.MUL_PORT)
+    app.run(debug=config.DEBUG_MODE, host="0.0.0.0", port=config.SUM_PORT)
